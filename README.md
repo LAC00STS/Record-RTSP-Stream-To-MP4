@@ -5,7 +5,8 @@ Python script that prompts you for a RTSP stream URL then records the stream to 
 
 # Requirements  
 
-You must have `ffmpeg` installed and on `PATH`
+- Python 3
+- You must have `ffmpeg` installed and on `PATH`
 
 # USAGE  
 
